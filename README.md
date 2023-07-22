@@ -1,4 +1,4 @@
-#BetterSafari Project
+# BetterSafari Project
 
 BetterSafari is an innovative project that aims to create a browser-like experience within a website using draggable iframes and Apple-styled design. With BetterSafari, users can interact with multiple web pages simultaneously in a seamless and user-friendly manner, enhancing their browsing experience on your website.
 
